@@ -13,7 +13,8 @@ code block
 #include<iostream>
 int main()
 {
-	std::cout << "Hello world!\n";
+
+	std::cout << "Hello world!\n"<<"try 2";
 	return 0;
 }
 ```
